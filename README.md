@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
@@ -59,3 +60,6 @@ Machine Learning project for breast cancer classification and video game sales p
 
 --------
 
+=======
+# Seminar_Cuoi_ky
+>>>>>>> 2cb00cc1a1293e07242c328c1ce9082996540e04
